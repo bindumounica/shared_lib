@@ -1,4 +1,3 @@
-def call()
-{
-	sh ./jfrog.py
+def call() {
+	sh 'python3 jfrog.py'
 }
